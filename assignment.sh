@@ -7,7 +7,6 @@
 # Version: v1
 ################################
 
-: '
 # Write a shell script in that asks for your full name and prints it.
 echo "Hello, Whats your name?"
 
@@ -24,7 +23,7 @@ echo "$PI"
 # Write a shell script in that stores the current date in a variable and prints it.
 
 todaydate=$(date)
-echo "$todaydate" '
+echo "$todaydate" 
 
 #Write a shell script in that prints all the outputs for exercises 1, 2 and 4. Print all the answers in a separate line.
 
